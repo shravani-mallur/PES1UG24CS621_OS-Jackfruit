@@ -61,6 +61,9 @@ sudo ./boilerplate/engine start beta ./rootfs-beta /bin/sh
 ```bash
 sudo ./boilerplate/engine ps
 ```
+<img width="1130" height="98" alt="image" src="https://github.com/user-attachments/assets/b48a622c-f579-4e88-944e-4b3af7464d71" />
+
+
 
 ---
 
