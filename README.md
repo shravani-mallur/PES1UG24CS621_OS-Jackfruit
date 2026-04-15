@@ -94,6 +94,9 @@ sudo dmesg | tail
 ./boilerplate/cpu_hog
 ./boilerplate/io_pulse
 ```
+<img width="1280" height="505" alt="image" src="https://github.com/user-attachments/assets/2e384ffe-dc53-4428-9847-6682345c2006" />
+
+
 
 ---
 
