@@ -69,6 +69,8 @@ sudo ./boilerplate/engine ps
 ```bash
 sudo ./boilerplate/engine logs alpha
 ```
+<img width="1134" height="78" alt="image" src="https://github.com/user-attachments/assets/a51ff498-de66-40e9-9782-2259271dacbe" />
+
 
 ---
 
