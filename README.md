@@ -44,6 +44,8 @@ ls -l /dev/container_monitor
 ```bash
 sudo ./boilerplate/engine supervisor ./rootfs-base
 ```
+<img width="1209" height="305" alt="image" src="https://github.com/user-attachments/assets/815dd8d4-accb-4324-939a-7fa8d2c6dcc7" />
+
 
 ---
 
