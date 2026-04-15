@@ -85,6 +85,8 @@ sudo ./boilerplate/engine stop alpha
 ```bash
 sudo dmesg | tail
 ```
+<img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/0bf77818-04be-49d4-8335-11984659738e" />
+
 
 ---
 
