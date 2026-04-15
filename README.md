@@ -77,6 +77,8 @@ sudo ./boilerplate/engine logs alpha
 ```bash
 sudo ./boilerplate/engine stop alpha
 ```
+<img width="1136" height="46" alt="image" src="https://github.com/user-attachments/assets/542f8e67-febc-4a5f-9839-f373a46d2bb7" />
+
 
 ---
 
