@@ -27,6 +27,8 @@ To implement a lightweight container runtime using OS concepts like process mana
 ```bash
 make
 ```
+<img width="1152" height="672" alt="image" src="https://github.com/user-attachments/assets/ee0575d0-9fea-4636-996f-aa0f79937736" />
+
 
 ---
 
