@@ -38,6 +38,8 @@ make
 sudo insmod boilerplate/monitor.ko
 ls -l /dev/container_monitor
 ```
+<img width="1148" height="74" alt="image" src="https://github.com/user-attachments/assets/35142577-11b9-4c1d-b902-cf7d0458101e" />
+
 
 ---
 
