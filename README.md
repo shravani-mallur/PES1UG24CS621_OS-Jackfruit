@@ -124,6 +124,8 @@ sudo dmesg | tail
 ```bash
 sudo rmmod monitor
 ```
+<img width="1280" height="92" alt="image" src="https://github.com/user-attachments/assets/72d2019f-b8f2-4e8d-98a9-cbea78c90f86" />
+
 
 ---
 
